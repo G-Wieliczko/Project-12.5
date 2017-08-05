@@ -1,0 +1,30 @@
+body {
+	margin: 0px auto;
+	padding: 20px;
+	text-align: center;
+	background-color: #21c0ed;
+	color: #fff;
+}
+a {
+	color: #fff;
+	text-decoration: none;
+}
+
+.trigger {
+	border: 1px solid #fff;
+	background-color: #21c0ed;
+	width: 200px;
+	height: 28px;
+	margin-top: 30px;
+	color: #fff;
+	font-weight: bolder;
+	text-transform: uppercase;
+}
+.tweet {
+	display: block;
+	border: 1px solid #fff;
+	width: 200px;
+	height: 28px;
+	line-height: 30px;
+	margin: 5px auto;
+}
